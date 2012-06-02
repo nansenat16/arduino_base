@@ -17,6 +17,5 @@ Arduino Base
 * 第二版 XPort_RF221_ethReader 高頻被動式可讀寫Reader + L3的XPort
 * Reader與後端連線使用HTTP協定
 
-系統架構
 
-image:: https://github.com/nansenat16/arduino_base/raw/master/doc/system_overview.png
+.. image:: https://github.com/nansenat16/arduino_base/raw/master/doc/system_overview.png
