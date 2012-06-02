@@ -1,10 +1,10 @@
-Arduno Base
+Arduino Base
 ===============
 這是於2009年間使用Arduino與RFID模組建構低成本與開放的基礎開發環境專題
 
 使用下列零件
 
-* Arduno Duemilanove
+* Arduino Duemilanove
 * RF-221 RFID module (13.56mhz)
 * Parallax brand RFID reader (125khz)
 * XPort module
